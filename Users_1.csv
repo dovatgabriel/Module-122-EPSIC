@@ -1,0 +1,31 @@
+FirstName,Initials,LastName,Username,Email,Departement,Password,JobTitle,Company,Ou,Expiration-Date
+Miguel,M,Silva,MSi,Miguel.Silva@techwave.com,Departement Finance,Yl0Cs8Lw,  Controleur financier,TechWave,"OU=_Finance,DC=ad,DC=private",19.02.25
+Isabella,I,Santos,ISa,Isabella.Santos@techwave.com,Departement Finance,Gq1Vp3Rq,  Expert en fiscalite,TechWave,"OU=_Finance,DC=ad,DC=private",31.01.26
+Lucas,L,Oliveira,LOl,Lucas.Oliveira@techwave.com,Departement Finance,Vn6Gj0Ht,  Gestionnaire de tresorerie,TechWave,"OU=_Finance,DC=ad,DC=private",23.02.24
+Sophia,S,Pereira,SPe,Sophia.Pereira@techwave.com,Departement Finance,Fs6Am9Ss,  Planificateur financier,TechWave,"OU=_Finance,DC=ad,DC=private",27.09.25
+Pedro,P,Costa,PCo,Pedro.Costa@techwave.com,Departement Finance,Pz0Pt6It,  Analyste financier,TechWave,"OU=_Finance,DC=ad,DC=private",30.04.26
+Julia,J,Lima,JLi,Julia.Lima@techwave.com,Departement Finance,Lt2Yk3Xt,  Analyste de credit,TechWave,"OU=_Finance,DC=ad,DC=private",21.01.25
+Gabriel,G,Souza,GSo,Gabriel.Souza@techwave.com,Departement Finance,Nr5Wh5Mu,  Responsable des comptes payables,TechWave,"OU=_Finance,DC=ad,DC=private",19.02.25
+Manuela,M,Rodrigues,MRo,Manuela.Rodrigues@techwave.com,Departement Finance,Yt7Ss6On,  Auditeur financier,TechWave,"OU=_Finance,DC=ad,DC=private",31.01.26
+Leonardo,L,Almeida,LAl,Leonardo.Almeida@techwave.com,Departement Finance,Qm2We8If,  Directeur financier,TechWave,"OU=_Finance,DC=ad,DC=private",23.02.24
+Luiza,L,Martins,LMa,Luiza.Martins@techwave.com,Departement Finance,Pv3Ra7Ox,  Analyste des risques financiers,TechWave,"OU=_Finance,DC=ad,DC=private",27.09.25
+Matheus,M,Ferreira,MFe,Matheus.Ferreira@techwave.com,Departement IT,Sx5De4Xp,Directeur des systemes de information ,TechWave,"OU=_IT,DC=ad,DC=private",30.04.26
+Valentina,V,Carvalho,VCa,Valentina.Carvalho@techwave.com,Departement IT,Hk0Jh8Mw,Developpeur logiciel senior,TechWave,"OU=_IT,DC=ad,DC=private",21.01.25
+Joao,J,Mendes,JMe,Joao.Mendes@techwave.com,Departement IT,Tg9Mu3Fi,Ingenieur r�seau,TechWave,"OU=_IT,DC=ad,DC=private",19.02.25
+Giovanna,G,Rocha,GRo,Giovanna.Rocha@techwave.com,Departement IT,Np5Yb4Zu,Specialiste en securite informatique,TechWave,"OU=_IT,DC=ad,DC=private",31.01.26
+Felipe,F,Barbosa,FBa,Felipe.Barbosa@techwave.com,Departement IT,Pw4Xa8If,Chef de projet informatique,TechWave,"OU=_IT,DC=ad,DC=private",23.02.24
+Maria,M,Pereira,MPe,Maria.Pereira@techwave.com,Departement IT,Xc2No4Wl,Administrateur de bases de donnees,TechWave,"OU=_IT,DC=ad,DC=private",27.09.25
+Enzo,E,Cunha,ECu,Enzo.Cunha@techwave.com,Departement IT,My0Bp7Bz,Analyste en intelligence artificielle,TechWave,"OU=_IT,DC=ad,DC=private",30.04.26
+Clara,C,Castro,CCa,Clara.Castro@techwave.com,Departement IT,Lj5Nj2Pp,Architecte cloud,TechWave,"OU=_IT,DC=ad,DC=private",21.01.25
+Guilherme,G,Oliveira,GOl,Guilherme.Oliveira@techwave.com,Departement IT,Un6Bn6Pd,Expert en automatisation des processus informatiques,TechWave,"OU=_IT,DC=ad,DC=private",19.02.25
+Beatriz,B,Miranda,BMi,Beatriz.Miranda@techwave.com,Departement IT,Ft0Pn2Un,Analyste de donnees senior,TechWave,"OU=_IT,DC=ad,DC=private",31.01.26
+Bruno,B,Gomes,BGo,Bruno.Gomes@techwave.com,Departement RH,Lv5Nt7Vk,Directeur des ressources humaines,TechWave,"OU=_RH,DC=ad,DC=private",23.02.24
+Gabriela,G,Campos,GCa,Gabriela.Campos@techwave.com,Departement RH,Ih8Hc3Vh,Gestionnaire des ressources humaines,TechWave,"OU=_RH,DC=ad,DC=private",27.09.25
+Rafael,R,Rocha,RRo,Rafael.Rocha@techwave.com,Departement RH,Sh2Uu1Mo,Charge de recrutement,TechWave,"OU=_RH,DC=ad,DC=private",30.04.26
+Alice,A,Sampaio,ASa,Alice.Sampaio@techwave.com,Departement RH,Np8Ew5Yv,Analyste des relations du travail,TechWave,"OU=_RH,DC=ad,DC=private",21.01.25
+Thiago,T,Ribeiro,TRi,Thiago.Ribeiro@techwave.com,Departement RH,Oo8Kf4Dl,Responsable de la diversit� et de linclusion,TechWave,"OU=_RH,DC=ad,DC=private",19.02.25
+Cristiano,C,Ronaldo,CRo,Cristiano.Ronaldo@techwave.com,Departement Marketing,Qu4Qm7Lt,Directeur marketing,TechWave,"OU=_Marketing,DC=ad,DC=private",31.01.26
+Vinicius,V,Santos,VSa,Vinicius.Santos@techwave.com,Departement Marketing,Er1Hi3Ab,Specialiste en marketing digital,TechWave,"OU=_Marketing,DC=ad,DC=private",23.02.24
+Camila,C,Lima,CLi,Camila.Lima@techwave.com,Departement Marketing,Sk2Uv3Ib,Chef de produit,TechWave,"OU=_Marketing,DC=ad,DC=private",27.09.25
+Gustavo,G,Santos,GSa,Gustavo.Santos@techwave.com,Departement Marketing,Et0Mk7Ky,  Coordonnateur evenementiel,TechWave,"OU=_Marketing,DC=ad,DC=private",30.04.26
+Larissa,L,Andrade,LAn,Larissa.Andrade@techwave.com,Departement Marketing,Zx9Fv7Lx,Responsable des relations publiques,TechWave,"OU=_Marketing,DC=ad,DC=private",21.01.25

@@ -7,6 +7,6 @@ donné à l'EPSIC par Yannick Widmer.
 
 > PowerShell : 5
 
-> Python : on va bientôt recevoir
+> Python : 4 (pas ouf faites pas comme nous)
 
 > Bash : on sait pas encore
